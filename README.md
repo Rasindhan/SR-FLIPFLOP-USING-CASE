@@ -43,6 +43,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 4.Create nodes for inputs and outputs to generate the timing diagram.
 
 5.For different input combinations generate the timing diagram.
+
+
 **PROGRAM**
 ```
 module ex06(q, q_bar, s,r, clk,reset);
